@@ -23,7 +23,7 @@ The game has been tested to work on Nokia Lumia 800 and Nokia Lumia 900.
 
 
 Instructions
---------_-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 The goal is to get the motorcycle and the driver to the chequered flag as fast
 as possible. The game ends if any part of the motorcycle or player touches the
