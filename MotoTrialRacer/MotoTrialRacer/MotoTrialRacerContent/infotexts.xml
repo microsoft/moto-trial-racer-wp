@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.String" Name="infoString">Moto Trial Racer XNA
+
+Moto Trial Racer XNA is a motorcycle racing
+game which uses Box2D.XNA physics engine.
+See more information about the project at
+https://projects.developer.nokia.com/xnamototrialracer.
+
+Playing Moto Trial Racer
+
+The Goal is to get the motorcycle and the
+driver to the chequered flag as fast as
+possible. The game ends if any part of
+the motorcycle or player touches the
+spikes or the player's head touches any
+other object. When the player gets to
+the chequered flag fast enough, he/she
+gets his/her name and time to the high
+scores list. The game can be paused,
+restarted and exited at any time via the
+options menu.
+
+Controls
+
+The motorcycle is accelerated by leaning
+the device towards the player and
+braked by leaning the device away from
+the player. The center of mass can be
+moved backwards/forwards by pressing the
+arrow buttons in top of the screen.
+
+Level Editor
+
+New objects can be added by pressing the
+object buttons in top of the screen. After
+a new object is added, it can be dragged
+to any position. An active object can be
+rotated by using two fingers. When the
+level is completed, it can be named and saved.
+The custom levels can be deleted by pressing
+and holding a level button down for two seconds.
+</Asset>
+</XnaContent>

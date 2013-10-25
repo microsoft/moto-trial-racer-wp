@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoTrialRacer", "MotoTrialRacer\MotoTrialRacer\MotoTrialRacer.csproj", "{AA22069A-4109-4E67-BFA1-473BECB8C98F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoTrialRacerContent", "MotoTrialRacer\MotoTrialRacerContent\MotoTrialRacerContent.contentproj", "{0515B61A-F0EA-468A-8D35-0DF3A043A158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box2D.XNA - wp7", "Box2D.XNA\Box2D.XNA - wp7.csproj", "{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA22069A-4109-4E67-BFA1-473BECB8C98F}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{AA22069A-4109-4E67-BFA1-473BECB8C98F}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{AA22069A-4109-4E67-BFA1-473BECB8C98F}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{AA22069A-4109-4E67-BFA1-473BECB8C98F}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{AA22069A-4109-4E67-BFA1-473BECB8C98F}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{AA22069A-4109-4E67-BFA1-473BECB8C98F}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{0515B61A-F0EA-468A-8D35-0DF3A043A158}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{0515B61A-F0EA-468A-8D35-0DF3A043A158}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Release|Windows Phone.Build.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
