@@ -11,11 +11,13 @@ application's graphics are reused from the QML version.
 The game has three predefined levels and a level editor with which the user 
 can create as many new levels as he/she likes.
 
+![Screenshot](doc/screenshots/xna_moto.png?raw=true)
+
 This project is hosted in a GitHub:
-https://github.com/nokia-developer/moto-trial-racer-wp
+https://github.com/Microsoft/moto-trial-racer-wp
 
 For more information about the implementation see the wiki page:
-https://github.com/nokia-developer/moto-trial-racer-wp/wiki
+https://github.com/Microsoft/moto-trial-racer-wp/wiki
 
 This project is compatible with Windows Phone 7 or later. Developed with
 Microsoft Visual Studio 2010 Express for Windows Phone and XNA Game Studio 4.0.
@@ -96,7 +98,7 @@ License
 -------------------------------------------------------------------------------
 You can find license details in Licence.txt file provided with this project
 or online at
-https://github.com/nokia-developer/moto-trial-racer-wp/blob/master/Licence.txt
+https://github.com/Microsoft/moto-trial-racer-wp/blob/master/Licence.txt
 
 
 Version history
